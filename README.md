@@ -32,6 +32,9 @@ List of free online programming/CS courses
 * [reddit - learnprogramming](http://www.reddit.com/r/learnprogramming/)
 * [reddit - /u/dhawal](http://www.reddit.com/user/dhawal)
 * [class-central Computer Science](https://www.class-central.com/subject/cs)
+* [Master Cisco Enterprise Networking with GNS3: Hands-On Labs](https://www.udemy.com/course/master-cisco-enterprise-networking-with-gns3-hands-on-labs/?referralCode=9A06B29B09BB8C7C69EA) - Practical, lab-based training to design, configure, and troubleshoot Cisco enterprise topologies inside GNS3.
+* [FortiGate Firewall Administration & Security Masterclass](https://www.udemy.com/course/fortigate-firewall-administration-security-masterclass/?referralCode=5CD7140B670ED8033537) - Gain hands-on experience configuring security policies, NAT, SSL VPNs, IPsec tunnels, and High Availability.
+
 
 ## Etc.
 
@@ -47,6 +50,7 @@ List of free online programming/CS courses
 * [ieeexplore](http://ieeexplore.ieee.org/)
 * [springer](http://link.springer.com/)
 * [Master Cisco Enterprise Networking with GNS3: Hands-On Labs](https://www.udemy.com/course/master-cisco-enterprise-networking-with-gns3-hands-on-labs/?referralCode=9A06B29B09BB8C7C69EA) - Practical, lab-based training to design, configure, and troubleshoot Cisco enterprise topologies inside GNS3
+*  [FortiGate Firewall Administration & Security Masterclass](https://www.udemy.com/course/fortigate-firewall-administration-security-masterclass/?referralCode=5CD7140B670ED8033537) - Gain hands-on experience configuring security policies, NAT, SSL VPNs, IPsec tunnels, and High Availability.
 
 ## Lists
 
