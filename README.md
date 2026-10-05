@@ -46,6 +46,8 @@ List of free online programming/CS courses
 * [arxiv](http://arxiv.org/list/cs/recent)
 * [ieeexplore](http://ieeexplore.ieee.org/)
 * [springer](http://link.springer.com/)
+* [Master Cisco Enterprise Networking with GNS3: Hands-On Labs](https://www.udemy.com/course/master-cisco-enterprise-networking-with-gns3-hands-on-labs/?referralCode=9A06B29B09BB8C7C69EA) - Practical, lab-based training to design, configure, and troubleshoot Cisco enterprise topologies inside GNS3.
+
 
 ## Lists
 
