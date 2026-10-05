@@ -24,7 +24,7 @@ List of free online programming/CS courses
 * [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
 * [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
 * [udacity](https://www.udacity.com/) - udacity.com
-* [udemy](https://www.udemy.com/courses/) - udemy.com/courses
+*[Master Cisco Enterprise Networking with GNS3: Hands-On Labs](https://www.udemy.com/course/master-cisco-enterprise-networking-with-gns3-hands-on-labs/?referralCode=9A06B29B09BB8C7C69EA) - Practical, lab-based training to design, configure, and troubleshoot Cisco enterprise topologies inside GNS3.
 * [mongodb](https://university.mongodb.com/) - Free Online MongoDB Training
 * [tutorialspoint](http://www.tutorialspoint.com/index.htm)
 * [alison](http://alison.com/learn/Programming)
